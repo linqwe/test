@@ -1,0 +1,8 @@
+version: 2.0.0
+files:
+  - url: ShoyoBot-win-2.0.0-x64.exe
+    sha512: Gj3mR7Bb4Kcu6p54vSlR10FbtGtVVJca9Srk9odoWJBJkxapo/g9BkblYG3orOu5KcoHLBa9KbAeK1nnpOZHbQ==
+    size: 87794480
+path: ShoyoBot-win-2.0.0-x64.exe
+sha512: Gj3mR7Bb4Kcu6p54vSlR10FbtGtVVJca9Srk9odoWJBJkxapo/g9BkblYG3orOu5KcoHLBa9KbAeK1nnpOZHbQ==
+releaseDate: '2025-04-09T06:14:31.216Z'
